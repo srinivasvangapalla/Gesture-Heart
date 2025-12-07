@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Star Heart",
+  "description": "An interactive 3D heart composed of glittering stars that you can expand and contract using your mouse wheel.",
+  "requestFramePermissions": []
+}
