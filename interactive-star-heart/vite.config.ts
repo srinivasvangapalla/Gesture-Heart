@@ -22,14 +22,7 @@ export default defineConfig(({ mode }) => {
         outDir: 'dist',
         sourcemap: false,
         minify: 'terser',
-        chunkSizeWarningLimit: 1000,
-        rollupOptions: {
-          output: {
-            manualChunks: {
-              three: ['three']
-            }
-          }
-        }
+        chunkSizeWarningLimit: 1000
       }
     };
 });

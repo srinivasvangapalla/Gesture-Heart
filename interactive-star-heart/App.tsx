@@ -13,7 +13,7 @@ const App: React.FC = () => {
 
       <div className="absolute top-0 left-0 w-full p-4 md:p-6 flex justify-between items-center z-20">
         <h1 className="text-xl md:text-2xl font-bold text-white tracking-wider">Interactive Star Heart</h1>
-         <a href="https://github.com/google/generative-ai-docs/tree/main/site/en/gemini-api/docs/get-started/tutorial_audio.md" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
+         <a href="https://github.com/srinivasvangapalla/Gesture-Heart" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
             <GithubIcon className="w-7 h-7" />
         </a>
       </div>
